@@ -13,5 +13,7 @@ Requirements
 Documentation & Information
 --------------------------------------
 How to Run
-Editing the Client (robot side)
-Editing the Server (Kinect side)
+
+[Editing the Client (robot side)] (https://github.com/robotics5040/KIFEN/wiki/Editing-the-Client)
+
+[Editing the Server (Kinect side)] (https://github.com/robotics5040/KIFEN/wiki/Editing-the-Server)
