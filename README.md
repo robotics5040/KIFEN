@@ -12,7 +12,7 @@ Requirements
 
 Documentation & Information
 --------------------------------------
-How to Run
+[How to Run] (https://github.com/robotics5040/KIFEN/wiki/How-to-Use)
 
 [Editing the Client (robot side)] (https://github.com/robotics5040/KIFEN/wiki/Editing-the-Client)
 
